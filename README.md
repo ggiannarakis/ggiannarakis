@@ -18,5 +18,4 @@ You can click the Preview link to take a look at your changes.
 - ⚙️ I use daily: `Python`, `Git`, `Linux`
 - 🌍 I'm mostly interested in **Experimentation & Causal Inference**
 - 🎓 I'm an Applied Mathematician, M.Sc from TU Eindhoven
-- 📰 Personal blog and portfolio: [actionable insights](https://ggiannarakis.github.io/)
 - 📫 Connect on Linkedin: [@ggiannarakis](https://www.linkedin.com/in/ggiannarakis/)
